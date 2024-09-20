@@ -44,7 +44,7 @@ Connect Looker Studio to our BigQuery dataset
 Create custom dashboards and reports to visualize log data
 Use Looker Studio's data modeling language (DML) to create data models and metrics
 
-<img width="960" alt="LOOKUP" src="https://github.com/user-attachments/assets/6063bd89-6f0a-41a3-b18a-e16d04f0c47f">
+<img width="960" alt="LOOKUP A" src="https://github.com/user-attachments/assets/5b129a6d-7732-4f44-ac8d-4421ba651aeb">
 
 
 
